@@ -27,7 +27,7 @@
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "^3.2.1",
-		"@astrojs/tailwind": "^5.1.5",
+		"@astrojs/tailwind": "^6.0.2",
 		"astro": "^5.1.9",
 		"tailwindcss": "^3.4.17"
 	},
